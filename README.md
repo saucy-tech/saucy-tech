@@ -55,5 +55,5 @@ These are languages, tools, and technologies I either use at work or enjoy using
 
 <!-- ## Statistics
 
-![Github Activity](https://github-readme-stats.vercel.app/api?username=mshankarrao&show_icons=true&count_private=true&theme=synthwave)
+![Github Activity](https://github-readme-stats.vercel.app)
  -->
