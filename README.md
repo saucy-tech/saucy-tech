@@ -8,7 +8,7 @@
 
 # Hi there 👋
 
-I'm a Full Stack Software Engineer and Product Manager working in Atlanta. I like to try out new technologies and currently learning things to transform myself into bitcoin developer. Self learned solidity and rust.
+I'm a Full Stack Software Engineer and Product Manager working in Atlanta. I like to try out new technologies and currently learning things to transform myself into a bitcoin developer.
 
 ## About me
 
