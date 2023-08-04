@@ -13,8 +13,8 @@ I'm a Full Stack Software Engineer and Product Manager working in Atlanta. I lik
 ## About me
 
 - ⚡Bitcoin Enthusiast
-- 👀I like to read technical books specially related to blockchain technologies
 - 🌎Geographic Information System (GIS) and map lover
+- 👀I like to read technical books specially related to blockchain technologies
 - 🌱I am open to opportunities in the bitcoin ecosystem because I am passionate about improving the technology.
 - 📫Reach me to collaborate on any new projects
 
