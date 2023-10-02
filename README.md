@@ -4,7 +4,7 @@
 <a href="https://twitter.com/Saucy_Tech" rel="nofollow"> <img align="right"
             src="img/twitter_logo.svg"
             alt="Twitter" height="36px" style="max-width: 100%;"> </a>
-<a href="https://www.linkedin.com/in/saucytech" rel="nofollow"> <img align="right"
+<a href="www.linkedin.com/in/saucytech" rel="nofollow"> <img align="right"
             src="img/linkedin_logo.svg"
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
