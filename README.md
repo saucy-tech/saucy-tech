@@ -1,3 +1,6 @@
+<img align="left"
+            src="img/saucy-tech-logo.png"
+            alt="LinkedIn" height="60px" style="max-width: 100%;">
 <a href="https://saucy.tech" rel="nofollow"> <img align="right"
             src="img/webpage.png"
             alt="Portfolio" height="36px" style="max-width: 100%;"> </a>
