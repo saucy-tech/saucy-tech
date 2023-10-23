@@ -11,6 +11,7 @@
             src="img/linkedin_logo.svg"
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
+<br>
 
 # Hi there 👋
 
