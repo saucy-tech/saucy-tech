@@ -47,9 +47,6 @@ These are languages, tools, and technologies I either use at work or enjoy using
     <a href="https://reactjs.org/" rel="nofollow"> <img align="left" alt="React" height="48px"
             src="img/react_logo.png"
             style="max-width: 100%;"> </a>   
-    <a href="https://reactnative.dev/" rel="nofollow"> <img align="left" alt="React-Native" height="48px"
-            src="img/react_native_logo.png"
-            style="max-width: 100%;"> </a>   
     <a href="#" rel="nofollow"> <img
             src="img/sql-server.png"
             align="left" alt="Git" height="48px" style="max-width: 100%;"> </a>
