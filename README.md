@@ -15,14 +15,19 @@
 
 # Hi there 👋
 
-I'm a Full Stack Software Engineer and Product Manager working in Atlanta. I like to try out new technologies and currently learning things to transform myself into a bitcoin developer.
+I'm a Full Stack Software Engineer and Product Manager working in Atlanta. After switching careers from Environmental Science and Public Health I started learning to code. While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. 
+
 
 ## About me
-
-- ⚡ Bitcoin Enthusiast
-- 🌎 Geographic Information System (GIS) and Map Lover
-- 🌱 Open to Opportunities within the Bitcoin Ecosystem
-- 📫 Reach Out for Collaboration on Exciting New Projects
+- 🤝 Run my own node and server
+- 🏡 Smart home tech and automation
+- 👨‍🍼 Love being a dad
+- 🎮 Playing and modding video games
+- 📖 Reading non-fiction and sci-fi/fantasy novels
+- ⚡ Bitcoin enthusiast and developer
+- 🌎 Geographic Information System (GIS) and map lover
+- 🌱 Open to opportunities within the Bitcoin Ecosystem
+- 📫 Open to collaborating on Open Source Projects
 
 <br>
 
