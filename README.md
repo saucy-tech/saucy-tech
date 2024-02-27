@@ -26,7 +26,7 @@ While I am currently focused on learning all things software engineering, I also
 
 ## About me
 - 🤝 Run my own node and server
-- 🏡 Smart home tech and automation
+- 🏡 Smart home tech and automation enthusiast
 - 👨‍🍼 Love being a dad
 - 🎮 Playing and modding video games
 - 📖 Reading non-fiction and sci-fi/fantasy novels
