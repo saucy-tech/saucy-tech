@@ -17,7 +17,9 @@
 
 I'm a Full Stack Software Engineer and Product Manager working in Atlanta. 
 <br>
+<br>
 After switching careers from Environmental Science and Public Health I started learning to code. 
+<br>
 <br>
 While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. 
 
