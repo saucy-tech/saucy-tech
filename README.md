@@ -6,7 +6,7 @@
 <h1 align="center">Brandon "SaucyTech" Sauceda 👋</h1>
 
 <p align="center">
-  <b>Senior Product Engineer · Bitcoin Protocol Developer · Technical Architect</b><br/>
+  <b> Product Engineer · Bitcoin Enthusiast · Gov-tech Veteran</b><br/>
   <br/>
   <a href="https://saucy.tech"><img src="https://img.shields.io/badge/saucy.tech-%23133929.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij48cGF0aCBmaWxsPSIjRTNCMjNDIiBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptLTEgMTYuOTVjLTMuOTUtLjQ5LTctMy44NS03LTcuOTUgMC0uNDEuMDMtLjgxLjA5LTEuMmwuOTIgLjkydjEuNzRjMCAuODMuNjcgMS41IDEuNSAxLjVzMS41LS42NyAxLjUtMS41VjkuNWwxLjkgMS45Yy4wOC4wOC4yLjEzLjMxLjEzdi4wMmMuMjUgMCAuNS0uMjEuNS0uNDZWNy4wMmMuMTctLjA1LjM0LS4wNy41LS4wN2guNWMuODMgMCAxLjUtLjY3IDEuNS0xLjVTMTIuMzMgNCAxMS41IDRoLTJjLS4xNyAwLS4zNC4wMi0uNS4wN1Y0YzAgLjI1LS4yNS40Ni0uNS40NmgtLjAyYy0uMTcgMC0uMzItLjEzLS4zNS0uMjlMMTEuNSAyLjVjLjE2LS4wMS4zMy0uMDIuNS0uMDIgNS41MiAwIDEwIDQuNDggMTAgMTAgMCA0LjEtMi40NyA3LjQ2LTYgOC45NVYxNy41YzAtLjgzLS42Ny0xLjUtMS41LTEuNWgtLjVjLS41MiAwLTEuMDEuMjYtMS4zLjY5LS4xOS4yOC0uMy42Mi0uMyAxLjA2djEuMnoiLz48L3N2Zz4="></a>
   <a href="https://twitter.com/Saucy_Tech"><img src="https://img.shields.io/badge/@Saucy__Tech-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
