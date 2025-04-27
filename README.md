@@ -16,7 +16,7 @@
 
 ### 🧭 About me
 
-- 🏗️ **Product Engineer** with 10+ years turning government IT systems from mundane to meaningful — I own the full product lifecycle and love making tech that actually works for humans
+- 🏗️ **Product Engineer** with 10+ years turning government IT systems from mundane to meaningful — I own the full product lifecycle and love making tech that actually works for people
 
 - ⚡ **Bitcoin enthusiast & developer** building the future and exploring self-sovereign computing and energy preservation
 
