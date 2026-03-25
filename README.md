@@ -44,11 +44,11 @@ I am most effective where product, engineering, and delivery overlap: shaping sc
 | --- | --- | --- |
 | **[Personal Site](https://github.com/saucy-tech/personal-site)** | Portfolio and writing platform with Lightning payments, MDX content, and a strong focus on accessibility and performance | `Next.js` `React` `TypeScript` `Tailwind` `MDX` |
 | **[Lightning Tip Jar](https://github.com/saucy-tech/lntipjar)** | Bitcoin tipping experience built around Nostr Wallet Connect for straightforward Lightning payments | `Next.js` `React` `TypeScript` `NWC` `@getalby/sdk` |
-| **SAT Sort** | In-progress Bitcoin lot manager focused on privacy-conscious workflows, HIFO cost basis, and local-first data handling | `React` `Node.js` `SQLite` `Bitcoin Core RPC` |
+| **[Work Time Visualizer](https://github.com/saucy-tech/work-time-visualizer-rust)** | Lightweight Windows taskbar widget showing daily and weekly work-time progress bars, built with native Win32 API | `Rust` `Win32 API` `Cargo` |
 
 ## Core Tools
 
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Python` `MS SQL` `PostgreSQL` `ArcGIS Pro` `ArcGIS Online` `Lightning Network`
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Python` `Rust` `MS SQL` `PostgreSQL` `ArcGIS Pro` `ArcGIS Online` `Lightning Network`
 
 ## How I Work
 
