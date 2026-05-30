@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/profile.jpg" alt="Brandon Sauceda" height="96" />
+  <img src="img/saucy-tech-logo.png" alt="SaucyTech logo" height="120" />
 </p>
 
 <h1 align="center">Brandon "SaucyTech" Sauceda</h1>
