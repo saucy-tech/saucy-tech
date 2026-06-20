@@ -1,8 +1,9 @@
 <p align="center">
   <img src="img/saucy-tech-logo.png" alt="SaucyTech logo" height="120" />
+    <a href="https://saucy.tech"><img src="img/saucy-tech-st-monogram.png" alt="Saucy Tech" height="80" /></a>
 </p>
 
-<h1 align="center">Brandon "SaucyTech" Sauceda</h1>
+<h1 align="center">Brandon Sauceda</h1>
 
 <p align="center">
   Engineering Manager | Product-minded software leader | Gov-tech, geospatial, and Bitcoin systems
@@ -61,6 +62,4 @@ I am most effective where product, engineering, and delivery overlap: shaping sc
 
 I am interested in thoughtful conversations around engineering leadership, product development, civic technology, geospatial systems, and Bitcoin-native software.
 
-<p align="center">
-  <a href="https://saucy.tech"><img src="img/saucy-tech-st-monogram.png" alt="Saucy Tech" height="80" /></a>
-</p>
+
