@@ -60,3 +60,7 @@ I am most effective where product, engineering, and delivery overlap: shaping sc
 ## Connect
 
 I am interested in thoughtful conversations around engineering leadership, product development, civic technology, geospatial systems, and Bitcoin-native software.
+
+<p align="center">
+  <a href="https://saucy.tech"><img src="img/saucy-tech-st-monogram.png" alt="Saucy Tech" height="80" /></a>
+</p>
