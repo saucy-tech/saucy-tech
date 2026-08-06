@@ -19,23 +19,51 @@
 
 ---
 
-<p align="center">
-  <a href="https://morningportion.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="img/the-morning-portion-logo-dark.png" />
-      <img src="img/the-morning-portion-logo.png" alt="The Morning Portion" height="200" />
-    </picture>
-  </a>
-</p>
+<h2 align="center">What I'm building</h2>
 
 <p align="center">
-  <em>The Word, before the day gets loud.</em>
+  Two products get almost all of my building time.
 </p>
 
-<p align="center">
-  Weekday scripture reflections rooted in the Sunday School lesson series.<br />
-  Read at <a href="https://morningportion.com"><strong>morningportion.com</strong></a>, subscribe by email, or listen to the podcast.
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://morningportion.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="img/the-morning-portion-logo-dark.png" />
+          <img src="img/the-morning-portion-logo.png" alt="The Morning Portion" height="160" />
+        </picture>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://train-every-day-demo.brandonsauceda.workers.dev/">
+        <img src="img/train-every-day-logo.png" alt="Train Every Day" height="160" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>The Word, before the day gets loud.</em></td>
+    <td align="center"><em>What to do now, what to log, what to do next time.</em></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      Weekday scripture reflections rooted in the Sunday School lesson series. I write it and run the whole pipeline: an MDX publishing flow, an email broadcast to subscribers, and a podcast episode, out every weekday.
+      <br /><br />
+      <code>Next.js 16</code> <code>React 19</code> <code>MDX</code> <code>Tailwind</code> <code>Vercel</code>
+      <br /><br />
+      <a href="https://morningportion.com"><strong>Read it at morningportion.com</strong></a>
+    </td>
+    <td valign="top">
+      The workout logger I use on the gym floor every training day. Local-first, so it keeps working with no signal and converges to Cloudflare KV through a commutative merge. No framework, no build step, no runtime dependencies.
+      <br /><br />
+      <code>Vanilla JS</code> <code>PWA</code> <code>Cloudflare Workers</code> <code>KV</code> <code>Offline-first</code>
+      <br /><br />
+      <a href="https://train-every-day-demo.brandonsauceda.workers.dev/"><strong>Open the demo</strong></a>
+      <br />
+      <sub>The live app holds my own training record and stays private. The demo is a separately sanitized build with fabricated data.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,11 +89,12 @@ I am most effective where product, engineering, and delivery overlap: shaping sc
 - AI-assisted workflows that improve execution without adding noise
 - Bitcoin, Lightning, and local-first software patterns
 
-## Selected Projects
+## Other Projects
+
+The two products above get the bulk of my time. These are the rest.
 
 | Project | Summary | Stack |
 | --- | --- | --- |
-| **[The Morning Portion](https://morningportion.com)** | Daily devotional product I write and run end to end: MDX publishing pipeline, email broadcast, and a podcast feed, shipping every weekday | `Next.js 16` `React 19` `MDX` `Tailwind` `Vercel` |
 | **[Field Manual](https://github.com/saucy-tech/field-manual)** | Open-source Claude Code skill that turns a project into one HTML file you use to drive the agent: decision sections, owner-badged task board, copy-prompt chips, status-sync loop | `Claude Code` `HTML` `AI agents` |
 | **[Personal Site](https://github.com/saucy-tech/personal-site)** | Portfolio and writing platform with Lightning payments, MDX content, and a strong focus on accessibility and performance | `Next.js` `React` `TypeScript` `Tailwind` `MDX` |
 | **[Lightning Tip Jar](https://github.com/saucy-tech/lntipjar)** | Bitcoin tipping experience built around Nostr Wallet Connect for straightforward Lightning payments | `Next.js` `React` `TypeScript` `NWC` `@getalby/sdk` |
