@@ -20,10 +20,13 @@
 ---
 
 <p align="center">
-  <a href="https://morningportion.com"><img src="img/morning-portion.svg" alt="The Morning Portion" height="72" /></a>
+  <a href="https://morningportion.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/the-morning-portion-logo-dark.png" />
+      <img src="img/the-morning-portion-logo.png" alt="The Morning Portion" height="200" />
+    </picture>
+  </a>
 </p>
-
-<h3 align="center"><a href="https://morningportion.com">The Morning Portion</a></h3>
 
 <p align="center">
   <em>The Word, before the day gets loud.</em>
@@ -72,7 +75,7 @@ I am most effective where product, engineering, and delivery overlap: shaping sc
 
 | Project | Contribution |
 | --- | --- |
-| **[hubble.md](https://github.com/bholmesdev/hubble.md)** | Removed recent folders from the workspace switcher ([#196](https://github.com/bholmesdev/hubble.md/pull/196)) |
+| **[hubble.md](https://github.com/bholmesdev/hubble.md)** | Three merged PRs to the notepad I use daily: Windows desktop build support ([#115](https://github.com/bholmesdev/hubble.md/pull/115)), system-follow dark mode ([#147](https://github.com/bholmesdev/hubble.md/pull/147)), and workspace-switcher cleanup ([#196](https://github.com/bholmesdev/hubble.md/pull/196)) |
 | **[neon-orbit](https://github.com/ATLBitLab/neon-orbit)** | Power-ups: repair, Overdrive, and Shield pods ([#6](https://github.com/ATLBitLab/neon-orbit/pull/6)) &middot; [play it](https://neon-orbit-eight.vercel.app/) |
 | **[Warp](https://github.com/warpdotdev/warp)** | Repo-picker fix for multi-repo workflows ([#9451](https://github.com/warpdotdev/warp/pull/9451)) |
 | **[Abbot](https://github.com/ATLBitLab/abbot)** | Core features for the Bitcoin/Lightning bot for Nostr and Telegram |
@@ -90,7 +93,17 @@ Full list on my [portfolio](https://saucy.tech/portfolio).
 
 ## Core Tools
 
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Python` `Rust` `MS SQL` `PostgreSQL` `ArcGIS Pro` `ArcGIS Online` `Lightning Network`
+**Languages** &middot; `TypeScript` `JavaScript` `Python` `Swift` `Rust` `C#` `PowerShell` `SQL`
+
+**Web** &middot; `React` `Next.js` `Astro` `Node.js` `MDX` `Tailwind CSS` `Three.js`
+
+**Platform** &middot; `Cloudflare Workers` `KV` `D1` `Vercel` `Azure` `Docker`
+
+**Data & GIS** &middot; `MS SQL` `PostgreSQL` `ArcGIS Pro` `ArcGIS Online`
+
+**Bitcoin** &middot; `Lightning Network` `Nostr Wallet Connect` `Nostr`
+
+**AI tooling** &middot; `Claude Code` `MCP servers` `agent workflows`
 
 ## How I Work
 
