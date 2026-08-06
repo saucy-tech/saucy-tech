@@ -49,14 +49,20 @@
     <td valign="top">
       Weekday scripture reflections rooted in the Sunday School lesson series. I write it and run the whole pipeline: an MDX publishing flow, an email broadcast to subscribers, and a podcast episode, out every weekday.
       <br /><br />
-      <code>Next.js 16</code> <code>React 19</code> <code>MDX</code> <code>Tailwind</code> <code>Vercel</code>
+      Publishing is one gate rather than a checklist. Each devotion lands as a labelled pull request; merging it schedules the subscriber broadcast for 7:00 AM Eastern on the morning it belongs to, so the same review that approves the writing is what sends it.
+      <br /><br />
+      <code>Next.js 16</code> <code>React 19</code> <code>MDX</code> <code>Tailwind</code> <code>Cloudflare Workers</code> <code>GitHub Actions</code>
       <br /><br />
       <a href="https://morningportion.com"><strong>Read it at morningportion.com</strong></a>
     </td>
     <td valign="top">
-      The workout logger I use on the gym floor every training day. Local-first, so it keeps working with no signal and converges to Cloudflare KV through a commutative merge. No framework, no build step, no runtime dependencies.
+      The workout logger I use on the gym floor every training day. It scores the three parts of the plan separately, each in the unit its own guideline uses: resistance days, cardio minutes, and mobility days. The targets sit above the WHO and CDC numbers rather than at them, and each bar carries a tick at the guideline minimum underneath, so a lighter week still shows whether it cleared the standard instead of just reading as a miss.
       <br /><br />
-      <code>Vanilla JS</code> <code>PWA</code> <code>Cloudflare Workers</code> <code>KV</code> <code>Offline-first</code>
+      Underneath that, weekly working sets are counted per muscle group against a 10&ndash;12 set band, with back and shoulders flagged as the V-taper priority and core held to a lower band because those bars count direct work only. Progression stays conservative on purpose: it names an exact next load only for machines whose real increment is documented, and effort is recorded only when I actually enter it.
+      <br /><br />
+      Local-first, so it keeps working with no signal and converges to Cloudflare KV through a commutative merge. No framework, no build step, no runtime dependencies. A read-only <code>/api/export</code> endpoint, authenticated by a Cloudflare Access service token and a verified Access JWT, hands the whole training record to my health dashboard and to the agents I analyze it with &mdash; which is why the logger never had to grow into a health app.
+      <br /><br />
+      <code>Vanilla JS</code> <code>PWA</code> <code>Cloudflare Workers</code> <code>KV</code> <code>Cloudflare Access</code> <code>JSON export API</code> <code>Offline-first</code>
       <br /><br />
       <a href="https://train-every-day-demo.brandonsauceda.workers.dev/"><strong>Open the demo</strong></a>
       <br />
