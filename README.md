@@ -73,7 +73,7 @@ I am most effective where product, engineering, and delivery overlap: shaping sc
 | Project | Contribution |
 | --- | --- |
 | **[hubble.md](https://github.com/bholmesdev/hubble.md)** | Removed recent folders from the workspace switcher ([#196](https://github.com/bholmesdev/hubble.md/pull/196)) |
-| **[neon-orbit](https://github.com/ATLBitLab/neon-orbit)** | Power-ups: repair, Overdrive, and Shield pods ([#6](https://github.com/ATLBitLab/neon-orbit/pull/6)) |
+| **[neon-orbit](https://github.com/ATLBitLab/neon-orbit)** | Power-ups: repair, Overdrive, and Shield pods ([#6](https://github.com/ATLBitLab/neon-orbit/pull/6)) &middot; [play it](https://neon-orbit-eight.vercel.app/) |
 | **[Warp](https://github.com/warpdotdev/warp)** | Repo-picker fix for multi-repo workflows ([#9451](https://github.com/warpdotdev/warp/pull/9451)) |
 | **[Abbot](https://github.com/ATLBitLab/abbot)** | Core features for the Bitcoin/Lightning bot for Nostr and Telegram |
 
