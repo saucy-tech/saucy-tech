@@ -49,7 +49,7 @@
     <td valign="top">
       Weekday scripture reflections rooted in the Sunday School lesson series. I write it and run the whole pipeline: an MDX publishing flow, an email broadcast to subscribers, and a podcast episode, out every weekday.
       <br /><br />
-      <code>Next.js 16</code> <code>React 19</code> <code>MDX</code> <code>Tailwind</code> <code>Vercel</code>
+      <code>Next.js 16</code> <code>React 19</code> <code>MDX</code> <code>Tailwind</code> <code>Cloudflare Workers</code>
       <br /><br />
       <a href="https://morningportion.com"><strong>Read it at morningportion.com</strong></a>
     </td>
