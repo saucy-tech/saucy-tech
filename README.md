@@ -42,7 +42,7 @@
     </td>
     <td width="33%" align="center">
       <a href="https://sunday-school-demo.brandonsauceda.workers.dev">
-        <img src="img/sunday-school-logo.png" alt="Sunday School" height="160" />
+        <img src="img/sunday-school-lessons-logo.png" alt="Sunday School" height="160" />
       </a>
     </td>
   </tr>
@@ -114,7 +114,7 @@ I am most effective where product, engineering, and delivery overlap: shaping sc
 
 ## Other Projects
 
-The two products above get the bulk of my time. These are the rest.
+The three products above get the bulk of my time. These are the rest.
 
 | Project | Summary | Stack |
 | --- | --- | --- |
