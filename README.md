@@ -47,6 +47,11 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><h3><a href="https://morningportion.com">The Morning Portion</a></h3></td>
+    <td align="center"><h3><a href="https://train-every-day-demo.brandonsauceda.workers.dev/">Train Every Day</a></h3></td>
+    <td align="center"><h3><a href="https://sunday-school-demo.brandonsauceda.workers.dev">Sunday School</a></h3></td>
+  </tr>
+  <tr>
     <td align="center"><em>The Word, before the day gets loud.</em></td>
     <td align="center"><em>What to do now, what to log, what to do next time.</em></td>
     <td align="center"><em>The whole quarter, in the room, with or without signal.</em></td>
