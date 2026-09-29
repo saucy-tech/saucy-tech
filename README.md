@@ -127,7 +127,7 @@ The three products above get the bulk of my time. These are the rest.
 | **[Personal Site](https://github.com/saucy-tech/personal-site)** | Portfolio and writing platform with Lightning payments, MDX content, and a strong focus on accessibility and performance | `Next.js` `React` `TypeScript` `Tailwind` `MDX` |
 | **[Lightning Tip Jar](https://github.com/saucy-tech/lntipjar)** | Bitcoin tipping experience built around Nostr Wallet Connect for straightforward Lightning payments | `Next.js` `React` `TypeScript` `NWC` `@getalby/sdk` |
 | **[Work Time Visualizer](https://github.com/saucy-tech/work-time-visualizer-rust)** | Lightweight Windows taskbar widget showing daily and weekly work-time progress bars, built with native Win32 API | `Rust` `Win32 API` `Cargo` |
-| **[The Home Hive](https://home-hive-demo.brandonsauceda.workers.dev)** | Weekly preschool lesson plan folded into the evening a family is already having, plus seven read-aloud games a pre-reader can play alone. The room is mixed-age, so every activity carries a class version and a harder one &middot; [demo repo](https://github.com/saucy-tech/home-hive-demo) | `Vanilla JS` `PWA` `Cloudflare Workers` `KV` `Access` |
+| **[The Home Hive](https://home-hive-demo.brandonsauceda.workers.dev)** | Weekly preschool lesson plan folded into the evening a family is already having, plus read-aloud games a pre-reader can play alone. The room is mixed-age, so every activity carries a class version and a harder one &middot; [demo repo](https://github.com/saucy-tech/home-hive-demo) | `Vanilla JS` `PWA` `Cloudflare Workers` `KV` `Access` |
 
 ## Open Source Contributions
 
