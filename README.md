@@ -28,6 +28,11 @@
 <table>
   <tr>
     <td width="33%" align="center">
+      <a href="https://gisplugins.dev">
+        <img src="img/gis-plugins-logo.png" alt="GIS Plugins" height="160" />
+      </a>
+    </td>
+    <td width="33%" align="center">
       <a href="https://morningportion.com">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="img/the-morning-portion-logo-dark.png" />
@@ -40,23 +45,29 @@
         <img src="img/train-every-day-logo.png" alt="Train Every Day" height="160" />
       </a>
     </td>
-    <td width="33%" align="center">
-      <a href="https://sunday-school-demo.brandonsauceda.workers.dev">
-        <img src="img/sunday-school-lessons-logo.png" alt="Sunday School" height="160" />
-      </a>
-    </td>
   </tr>
   <tr>
+    <td align="center"><h3><a href="https://gisplugins.dev">GIS Plugins</a></h3></td>
     <td align="center"><h3><a href="https://morningportion.com">The Morning Portion</a></h3></td>
     <td align="center"><h3><a href="https://train-every-day-demo.brandonsauceda.workers.dev/">Train Every Day</a></h3></td>
-    <td align="center"><h3><a href="https://sunday-school-demo.brandonsauceda.workers.dev">Sunday School</a></h3></td>
   </tr>
   <tr>
+    <td align="center"><em>Find the QGIS plugin for the job, and know whether it survives QGIS 4.</em></td>
     <td align="center"><em>The Word, before the day gets loud.</em></td>
     <td align="center"><em>What to do now, what to log, what to do next time.</em></td>
-    <td align="center"><em>The whole quarter, in the room, with or without signal.</em></td>
   </tr>
   <tr>
+    <td valign="top">
+      An independent directory of every plugin in the official QGIS repository, organized by the job you're trying to do instead of the upload list. Every night a Python build reads the official 3.40 and 4.0 feeds, sorts each plugin into a category from a weighted keyword taxonomy, and marks whether it's listed for QGIS 4. Planning an upgrade starts from a list, not a guess.
+      <br /><br />
+      Adopt a Plugin finds popular plugins that haven't reached QGIS 4 or shipped a release in two years. It then estimates how hard each port would be by downloading the plugin's archive and reading it with Python's <code>ast</code>. Plugin code is never imported or run. Every Easy, Medium or Hard label comes with file-and-line evidence. One button opens a prefilled issue on the plugin's own tracker, so offering help takes a click instead of a cold email.
+      <br /><br />
+      A static site built with the Python standard library and no runtime dependencies. Cookieless event tracking goes through a Pages Function into Workers Analytics Engine, and the site has a weekly newsletter, GIS Plugins Weekly.
+      <br /><br />
+      <code>Python (stdlib only)</code> <code>Static site</code> <code>Cloudflare Pages</code> <code>Pages Functions</code> <code>Workers Analytics Engine</code> <code>Buttondown</code>
+      <br /><br />
+      <a href="https://gisplugins.dev"><strong>Browse it at gisplugins.dev</strong></a>
+    </td>
     <td valign="top">
       Weekday scripture reflections rooted in the Sunday School lesson series. I write it and run the whole pipeline: an MDX publishing flow, an email broadcast to subscribers, and a podcast episode, out every weekday.
       <br /><br />
@@ -79,17 +90,6 @@
       <br />
       <sub>The live app holds my own training record and stays private. The demo is a separately sanitized build with fabricated data.</sub>
     </td>
-    <td valign="top">
-      The app I teach from on Sunday morning, on an iPad Mini in a classroom where the signal drops. A service worker precaches the menu and every lesson in the quarter, so the whole thing opens with no network at all. When that is not enough, any single lesson or an entire quarter exports as one self-contained HTML file that opens from the Files app with no service worker involved. That is the backup that cannot fail, and a room full of kids is not the place to find out the cache did.
-      <br /><br />
-      The menu, the lesson dates, and the badge on this Sunday are generated from the lesson files rather than hand-edited, so adding a lesson is dropping a file in a folder. Each quarter carries an optional <code>meta.json</code> for titles, scripture, and the date of the first Sunday; every other date is derived from that one. No framework and no build step beyond a dependency-free Node script, covered by a suite that runs on <code>node --test</code>.
-      <br /><br />
-      <code>Vanilla JS</code> <code>PWA</code> <code>Service worker</code> <code>Cloudflare Workers</code> <code>Cloudflare Access</code> <code>node --test</code> <code>Offline-first</code>
-      <br /><br />
-      <a href="https://sunday-school-demo.brandonsauceda.workers.dev"><strong>Open the demo</strong></a>
-      <br />
-      <sub>The lessons are written against paid curriculum, so the real deployment stays behind Cloudflare Access. The demo is the same app carrying three sample lessons written from scratch and none of the curriculum.</sub>
-    </td>
   </tr>
 </table>
 
@@ -107,13 +107,14 @@ I am most effective where product, engineering, and delivery overlap: shaping sc
 - Build product direction with a bias toward user value, maintainability, and measurable outcomes
 - Modernize legacy and public-sector systems without losing operational context
 - Design and ship web products using TypeScript, React, Next.js, Node.js, and Python
-- Work comfortably in GIS and mapping-heavy environments with ArcGIS Online and ArcGIS Pro
+- Work comfortably in GIS and mapping-heavy environments with ArcGIS Online, ArcGIS Pro, and QGIS
 - Explore Bitcoin and Lightning-native products with an emphasis on practical utility and self-sovereign tools
 
 ## Current Focus
 
 - Engineering management for small, high-trust teams
 - Product delivery in gov-tech and operationally complex environments
+- QGIS 4 migration tooling
 - AI-assisted workflows that improve execution without adding noise
 - Bitcoin, Lightning, and local-first software patterns
 
@@ -127,6 +128,7 @@ The three products above get the bulk of my time. These are the rest.
 | **[Personal Site](https://github.com/saucy-tech/personal-site)** | Portfolio and writing platform with Lightning payments, MDX content, and a strong focus on accessibility and performance | `Next.js` `React` `TypeScript` `Tailwind` `MDX` |
 | **[Lightning Tip Jar](https://github.com/saucy-tech/lntipjar)** | Bitcoin tipping experience built around Nostr Wallet Connect for straightforward Lightning payments | `Next.js` `React` `TypeScript` `NWC` `@getalby/sdk` |
 | **[Work Time Visualizer](https://github.com/saucy-tech/work-time-visualizer-rust)** | Lightweight Windows taskbar widget showing daily and weekly work-time progress bars, built with native Win32 API | `Rust` `Win32 API` `Cargo` |
+| **[Sunday School](https://sunday-school-demo.brandonsauceda.workers.dev)** | The offline-first app I teach from on Sunday morning. Every lesson in the quarter is precached, and any lesson or quarter exports as one self-contained HTML file. The demo carries sample lessons and none of the paid curriculum | `Vanilla JS` `PWA` `Service worker` `Cloudflare Workers` `Access` |
 | **[The Home Hive](https://home-hive-demo.brandonsauceda.workers.dev)** | Weekly preschool lesson plan folded into the evening a family is already having, plus read-aloud games a pre-reader can play alone. The room is mixed-age, so every activity carries a class version and a harder one &middot; [demo repo](https://github.com/saucy-tech/home-hive-demo) | `Vanilla JS` `PWA` `Cloudflare Workers` `KV` `Access` |
 
 ## Open Source Contributions
@@ -157,7 +159,7 @@ Full list on my [portfolio](https://saucy.tech/portfolio).
 
 **Platform** &middot; `Cloudflare Workers` `KV` `D1` `Vercel` `Azure` `Docker`
 
-**Data & GIS** &middot; `MS SQL` `PostgreSQL` `ArcGIS Pro` `ArcGIS Online`
+**Data & GIS** &middot; `MS SQL` `PostgreSQL` `ArcGIS Pro` `ArcGIS Online` `QGIS`
 
 **Bitcoin** &middot; `Lightning Network` `Nostr Wallet Connect` `Nostr`
 
